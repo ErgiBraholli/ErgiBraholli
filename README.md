@@ -1,5 +1,7 @@
-# Hey there 👋, I'm Ergi Braholli
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682b4,100:2c2454&height=220&section=header&text=Ergi%20Braholli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="banner"/>
+</p>
+
 Full Stack Developer
 
 About Me
@@ -11,44 +13,37 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
 
 ## Tech Stack  
 
-**Languages:**
-```
-<p>
+**Languages and Tools:**
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> 
-</p>
-
-```**Frameworks & Libraries:**  ```
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40"/> 
-</p>
-
-```**Tools & Platforms:**  ```
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40"/> 
 </p>
 
-```## 📊 GitHub Stats```
-
+**My Stats:**
 ![Ergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErgiBraholli&show_icons=true&theme=tokyonight)
 
-```## 📈 Activity Graph  ```
-
-[![Ergi’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErgiBraholli&theme=tokyo-night)](https://github.com/ErgiBraholli)
-
-```Connect with Me
-	•	[LinkedIn] (https://www.linkedin.com/in/ergi-braholli-512245247/)
-	•	Portfolio Website :
-	•	Email: braholliergi@gmail.com
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/ergi-braholli-512245247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-2c2454?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:braholliergi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-4682b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
