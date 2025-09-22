@@ -1,19 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682b4,100:2c2454&height=220&section=header&text=Ergi%20Braholli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682b4,100:2c2454&height=220&section=header&text=Ergi%20Braholli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="banner"/>
 </p>
 
-Full Stack Developer
-
-About Me
+## About Me
 
 I hold a Bachelor’s degree in Mathematical and Informatics Engineering from the University of Tirana.
 Currently learning and building with the MERN stack, focusing on developing solid full stack applications.
 My interests combine full stack development, system security, and electronics.
 Strong in communication skills, personal development, and I enjoy high-adrenaline activities that push my limits.
 
-## Tech Stack  
-
-**Languages and Tools:**
+## Languages and Tools: 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
@@ -33,8 +29,9 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40"/> 
 </p>
 
-**My Stats:**
-![Ergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErgiBraholli&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErgiBraholli&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ergi-braholli-512245247/" target="_blank">
