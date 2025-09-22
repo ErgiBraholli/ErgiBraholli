@@ -38,10 +38,6 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErgiBraholli&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErgiBraholli&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-</p>
-
 ---
 
 ##  Connect with Me  
