@@ -1,7 +1,6 @@
 # Hey there 👋, I'm Ergi Braholli
-
-```txt
-Full Stack Developer in progress
+```
+Full Stack Developer
 
 About Me
 
@@ -12,7 +11,8 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
 
 ## Tech Stack  
 
-**Languages:**  
+**Languages:**
+```
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
@@ -20,7 +20,7 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> 
 </p>
 
-**Frameworks & Libraries:**  
+```**Frameworks & Libraries:**  ```
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> 
@@ -30,7 +30,7 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40"/> 
 </p>
 
-**Tools & Platforms:**  
+```**Tools & Platforms:**  ```
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> 
@@ -39,15 +39,16 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40"/> 
 </p>
 
-## 📊 GitHub Stats
+```## 📊 GitHub Stats```
 
 ![Ergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErgiBraholli&show_icons=true&theme=tokyonight)
 
-## 📈 Activity Graph  
+```## 📈 Activity Graph  ```
 
 [![Ergi’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErgiBraholli&theme=tokyo-night)](https://github.com/ErgiBraholli)
 
-Connect with Me
-	•	LinkedIn : https://www.linkedin.com/in/ergi-braholli-512245247/
+```Connect with Me
+	•	[LinkedIn] (https://www.linkedin.com/in/ergi-braholli-512245247/)
 	•	Portfolio Website :
 	•	Email: braholliergi@gmail.com
+```
