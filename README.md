@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682b4,100:2c2454&height=220&section=header&text=Ergi%20Braholli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682b4,100:2c2454&height=220&section=header&text=Ergi%20Braholli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=28 alt="banner"/>
 </p>
+
+<!-- <p>&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50"</p> -->
 
 ## About Me
 
@@ -13,6 +15,8 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/> 
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>  -->
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>  -->
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>  -->
@@ -25,20 +29,18 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> 
 </p>
 
 ---
 
-##  GitHub Stats  
+<!-- <p>##  GitHub Stats</p>   -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErgiBraholli&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErgiBraholli&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
+</p> -->
 
 ##  Connect with Me  
 
