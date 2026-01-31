@@ -49,9 +49,9 @@ Strong in communication skills, personal development, and I enjoy high-adrenalin
   <a href="https://www.linkedin.com/in/ergi-braholli-512245247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <!-- <a href="https://ergibraholli.xyz" target="_blank">
+  <a href="https://ergibraholli.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-2c2454?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a> -->
+  </a>
   <a href="mailto:braholliergi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-4682b4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
