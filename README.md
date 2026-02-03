@@ -6,7 +6,7 @@
 
 ## About Me
 
-I hold a Bachelor’s degree in Mathematical and Informatics Engineering from the University of Tirana.
+I hold a Bachelor’s degree in Mathematical and Computer Engineering from the University of Tirana.
 Currently learning and building with the MERN stack, focusing on developing solid full stack applications.
 My interests combine full stack development, system security, and electronics.
 Strong in communication skills, personal development, and I enjoy high-adrenaline activities that push my limits.
